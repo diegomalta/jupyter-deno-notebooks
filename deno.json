@@ -9,6 +9,7 @@
     "dotenv/config": "npm:/dotenv/config",
     "ignore": "npm:/ignore",
     "pdf-parse": "npm:/pdf-parse",
-    "ml-distance": "npm:/ml-distance"
+    "ml-distance": "npm:/ml-distance",
+    "cheerio": "npm:/cheerio"
   }
 }
